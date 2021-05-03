@@ -13,13 +13,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Compile the contracts
 
+### `truffle deploy`
+
+Deploy the smart contracts on theblockchain
+
 ### `truffle migrate`
 
 Run migrations 
 
-### `truffle deploy`
-
-Deploy the smart contracts on theblockchain
 
 ## Learn More
 
