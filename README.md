@@ -1,4 +1,4 @@
-# Blockchain based Pet Shop
+# Blockchain based Pet Shop DApp
 
 ## Available Scripts
 
